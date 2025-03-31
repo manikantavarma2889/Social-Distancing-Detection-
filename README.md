@@ -1,9 +1,9 @@
 # Social-Distancing-in-Real-Time
 Social distancing in Real-Time using live video stream/IP camera in OpenCV.
 
-> This is an improvement/modification to (https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/).
 
-> Please refer to the added [Features](#features).
+
+
 
 Output       |  Output
 :-------------------------:|:-------------------------:
